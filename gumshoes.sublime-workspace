@@ -1,0 +1,1843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error",
+				"console.error"
+			],
+			[
+				"getOr",
+				"getOrganizationsClasses"
+			],
+			[
+				"summary",
+				"summaryPromise\tfn "
+			],
+			[
+				"prima",
+				"primaryKey"
+			],
+			[
+				"check",
+				"checkLivingInstances\tfn "
+			],
+			[
+				"cached",
+				"cachedInstances"
+			],
+			[
+				"stop",
+				"stopInstanceMonitoring\tfn "
+			],
+			[
+				"cancelChe",
+				"cancelCheckLogoutAtInterval\tfn "
+			],
+			[
+				"inst",
+				"instances\t? "
+			],
+			[
+				"ass",
+				"assigneeId\t? "
+			],
+			[
+				"supervi",
+				"supervisors"
+			],
+			[
+				"summ",
+				"summary\t? "
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"summa",
+				"summaries\t? "
+			],
+			[
+				"_summa",
+				"_summaryRow\t? "
+			],
+			[
+				"querySele",
+				"querySelector"
+			],
+			[
+				"schedule-summ",
+				"schedule-summaries"
+			],
+			[
+				"star",
+				"start_date"
+			],
+			[
+				"over",
+				"overflow-hidden"
+			],
+			[
+				"fullca",
+				"fullcalendar-calendar\t(person-availabilities.html)"
+			],
+			[
+				"editToolba",
+				"editToolbarSpacer\t(paper-info-group.html)"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"propa",
+				"propagationType"
+			],
+			[
+				"group_contr",
+				"group_contract_id"
+			],
+			[
+				"group_",
+				"group_contract_id"
+			],
+			[
+				"noteRea",
+				"noteReasonItems"
+			],
+			[
+				"calend",
+				"calendarElement"
+			],
+			[
+				"gets",
+				"getScrollbarWidth"
+			],
+			[
+				"date",
+				"dateStringToMoment\t(weekly-shift.html)"
+			],
+			[
+				"calenDa",
+				"calendarElement\t(person-schedule.html)"
+			],
+			[
+				"companiI",
+				"companyInformation"
+			],
+			[
+				"_show",
+				"_showCancelConfirmDialog"
+			],
+			[
+				"countC",
+				"countryCode"
+			],
+			[
+				"import",
+				"important\t(paper-input-container.html)"
+			],
+			[
+				"countr",
+				"countryCodes"
+			],
+			[
+				"beha",
+				"behaviors\t(gui-field-number.html)"
+			],
+			[
+				"_onVa",
+				"_handleAutoValidate"
+			],
+			[
+				"templ",
+				"templatize\t(collapse-list-detail.html)"
+			],
+			[
+				"paper-actio",
+				"paper-action-button\t(person-actions.html)"
+			],
+			[
+				"avail",
+				"availableActions"
+			],
+			[
+				"avai",
+				"availabilities\t(person-availabilities.html)"
+			],
+			[
+				"scrollLef",
+				"scrollLeftButton\t(paper-tabs.html)"
+			],
+			[
+				"contrac",
+				"contractmanager\t(weekly-main.html)"
+			],
+			[
+				"site",
+				"sitesupervisor\t(weekly-main.html)"
+			],
+			[
+				"logic",
+				"logic_op\t(gui-advanced-filter-builder.html)"
+			],
+			[
+				"obser",
+				"observer\t(gui-selector.html)"
+			],
+			[
+				"full",
+				"fullcalendar-calendar"
+			],
+			[
+				"emploCon",
+				"employmentContract"
+			],
+			[
+				"iron-over",
+				"iron-overlay-closed"
+			],
+			[
+				"curr",
+				"currentTarget\t(schedule-actions-menu-behavior.html)"
+			],
+			[
+				"coll",
+				"collapse-list-detail\t(collapse-list-detail.html)"
+			],
+			[
+				"collap",
+				"collapse-list-detail"
+			],
+			[
+				"start",
+				"start-closed"
+			],
+			[
+				"defau",
+				"defaultAddressType"
+			],
+			[
+				"_order",
+				"_orderitemChanged"
+			],
+			[
+				"activi",
+				"activity-feed\t(open-shift-card.html)"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"hori",
+				"horizontal\t(iron-fit-behavior.html)"
+			],
+			[
+				"refre",
+				"refreshList"
+			],
+			[
+				"flexheight",
+				"flexHeight"
+			],
+			[
+				"attr",
+				"attributes\t(header-store.html)"
+			],
+			[
+				"storeL",
+				"storeListChanged"
+			],
+			[
+				"muta",
+				"mutateItem"
+			],
+			[
+				"ob",
+				"observer"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"offs",
+				"offsetWidth\t(weekly-main.html)"
+			],
+			[
+				"RIGHT",
+				"rightSpacer"
+			],
+			[
+				"search",
+				"searchHeaders"
+			],
+			[
+				"gui-advanced",
+				"gui-advanced-filter-builder\t(gui-advanced-filter-builder.html)"
+			],
+			[
+				"gui-ad",
+				"gui-advanced-filter-context\t(gui-advanced-filter-context.html)"
+			],
+			[
+				"gui-",
+				"gui-field-text"
+			],
+			[
+				"alwa",
+				"always-collapsed\t(company-main.html)"
+			],
+			[
+				"cater",
+				"categoryCode"
+			],
+			[
+				"product",
+				"productSelector"
+			],
+			[
+				"Gui",
+				"GuiInputDropdownBehavior"
+			],
+			[
+				"unique",
+				"_.unique\tLodashArray"
+			],
+			[
+				"getElemby",
+				"getElementsByTagName\t(editable-group-behavior.html)"
+			],
+			[
+				"getElem",
+				"getElementsByTagName\t(editable-group-behavior.html)"
+			],
+			[
+				"searchCont",
+				"searchStoreContext"
+			],
+			[
+				"sear",
+				"searchPerson"
+			],
+			[
+				"get_pers",
+				"get_persons_summary\t(person-store.html)"
+			],
+			[
+				"auto-sugges",
+				"auto-suggestions-behavior.html\t(gui-input.html)"
+			],
+			[
+				"gui-auto-sugg",
+				"gui-auto-suggestions-tests.html"
+			],
+			[
+				"query",
+				"querySuggestions"
+			],
+			[
+				"on-key",
+				"on-keypress"
+			],
+			[
+				"sugges",
+				"suggestionsContext"
+			],
+			[
+				"inner",
+				"innerWidth\tjsWindow"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"immu",
+				"immutableOmni\t(immutable-search-store-behavior.html)"
+			],
+			[
+				"imm",
+				"immutableList\t(immutable-person-store-behavior.html)"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"temp",
+				"template\tTag"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"from",
+				"fromDateString\t(utils.js)"
+			],
+			[
+				"random",
+				"_.random\tLodashNumber"
+			],
+			[
+				"sticky",
+				"stickyProduct"
+			],
+			[
+				"stickty",
+				"stickyProduct"
+			],
+			[
+				"assign",
+				"assignee_link"
+			],
+			[
+				"localEndpoi",
+				"localEndpointsUrlLabel"
+			],
+			[
+				"localSer",
+				"localServerUrl"
+			],
+			[
+				"isLoc",
+				"isLocalServer\t(globals.js)"
+			],
+			[
+				"assig",
+				"assignee_links"
+			],
+			[
+				"contract_",
+				"contract_product_code"
+			],
+			[
+				"obse",
+				"observer\t(app.html)"
+			],
+			[
+				"sched",
+				"schedules\t(order-item-schedule-group.html)"
+			],
+			[
+				"contr",
+				"contract_id"
+			],
+			[
+				"nextS",
+				"nextSibling\tjsDOM"
+			],
+			[
+				"addEventLis",
+				"addEventListener\tjsEvent"
+			],
+			[
+				"order-clie",
+				"order-client-fields\t(order-client-fields.html)"
+			],
+			[
+				"has",
+				"hasSearchRules"
+			],
+			[
+				"firstChi",
+				"firstChild\tjsDOM"
+			],
+			[
+				"removeChi",
+				"removeChild(childWrapper)\twebcomponents.js"
+			],
+			[
+				"paper-grou",
+				"paper-fields-group"
+			],
+			[
+				"LEN",
+				"LENGTH_TOP"
+			],
+			[
+				"paper-ac",
+				"paper-action-button\t(paper-items-line-edit.html)"
+			],
+			[
+				"navig",
+				"navigation-disabled\t(main.html)"
+			],
+			[
+				"poin",
+				"cursor: pointer;\tProperty"
+			],
+			[
+				"tran",
+				"tran\ttranslate"
+			],
+			[
+				"transla",
+				"translate\t(Hose Coupling 3:4.scad)"
+			],
+			[
+				"noti",
+				"notifyPath\t(order-main.html)"
+			],
+			[
+				"day",
+				"day_off"
+			],
+			[
+				"billto",
+				"billto_distribution\t(order-billto-distribution-group.html)"
+			],
+			[
+				"order-heade",
+				"order-header-group\t(order-header-group.html)"
+			],
+			[
+				"deli",
+				"delivery_method"
+			],
+			[
+				"c",
+				"code\tcode block"
+			],
+			[
+				"se",
+				"sequelize"
+			],
+			[
+				"content",
+				"contentTemplate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Gulp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm_start.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Gulp.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"hint",
+				"Snippet: HTML - Input:tel"
+			],
+			[
+				"q",
+				"ChangeQuotes"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"das",
+				"Convert Case: dash-case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"quot",
+				"ChangeQuotes"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"came",
+				"Convert Case: camelCase"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"jsonn",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"in",
+				"Indent JSON"
+			],
+			[
+				"quo",
+				"ChangeQuotes"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"quote",
+				"String Utilities: Convert Double Quotes To Single"
+			],
+			[
+				"packsync",
+				"PackageSync: Sync Online - Enable Syncing"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indent JSON"
+			],
+			[
+				"reind",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: snake_case"
+			],
+			[
+				"packages",
+				"PackageSync: Sync Online - Define Online Sync Folder"
+			],
+			[
+				"back",
+				"PackageSync: Backup/Restore - Restore Packages From Zip (Recommended)"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"minify",
+				"Minify::Minify File"
+			],
+			[
+				"min",
+				"Minify::Default File Settings"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"tree",
+				"JsonTree: Show Tree"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"STATUS",
+				"git: status"
+			],
+			[
+				"group",
+				"Group: Move to Group 2"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"open",
+				"File: Open File"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"split",
+				"MultiEditUtils: Split selection"
+			],
+			[
+				"PICO",
+				"Set Syntax: PICO-8"
+			],
+			[
+				"pic",
+				"Preferences: PICO-8 - Default"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"conv doub",
+				"String Utilities: Convert Double Quotes To Single"
+			],
+			[
+				"ascii",
+				"Find non ascii"
+			],
+			[
+				"convert dou",
+				"String Utilities: Convert Double Quotes To Single"
+			],
+			[
+				"string",
+				"String Utilities: Convert Single Quotes To Double"
+			],
+			[
+				"trim",
+				"MultiEditUtils: Remove Empty Regions"
+			],
+			[
+				"xm l",
+				"Set Syntax: XML"
+			],
+			[
+				"merge",
+				"Sublimerge"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"haste",
+				"To Hastebin : send"
+			],
+			[
+				"hast",
+				"To Hastebin : send"
+			],
+			[
+				"ever",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"char",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"debug",
+				"SimplestDebugger: Toggle"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"orgm",
+				"Preferences: orgmode Settings – User"
+			],
+			[
+				"orgmode",
+				"View: Toggle Distraction Free Mode"
+			],
+			[
+				"org",
+				"Layout: Grid"
+			],
+			[
+				":",
+				"Git: Checkout"
+			],
+			[
+				"branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"fetc",
+				"Git: Fetch"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"bran",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"checkou",
+				"Git: Checkout"
+			],
+			[
+				"backu",
+				"AutoBackups: Open Backups Folder"
+			],
+			[
+				"has",
+				"To Hastebin : send"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"switch",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"checkout",
+				"Git (SideBarGit): Checkout to…"
+			],
+			[
+				"branc",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"chang",
+				"Git (SideBarGit): Diff: all changes since the last commit"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"num",
+				"King: Number: Number Sequence"
+			],
+			[
+				"number",
+				"King: Number: Number Sequence"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Indentation: Use Spaces"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"alig",
+				"AlignTab"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/hd/sources/gumshoes",
+		"/Volumes/hd/sources/gumshoes/app",
+		"/Volumes/hd/sources/gumshoes/app/base",
+		"/Volumes/hd/sources/gumshoes/app/mixins",
+		"/Volumes/hd/sources/gumshoes/app/protos",
+		"/Volumes/hd/sources/gumshoes/src"
+	],
+	"file_history":
+	[
+		"/Volumes/hd/sources/gumshoes/app/protos/events.js",
+		"/Volumes/hd/sources/gumshoes/app/base/base.js",
+		"/Volumes/hd/sources/gumshoes/app/utils.js",
+		"/Volumes/hd/sources/gumshoes/app/index.html",
+		"/Volumes/hd/sources/gumshoes/app/index.js",
+		"/Volumes/hd/sources/gumshoes/app/classes/inventory.js",
+		"/Volumes/hd/sources/gumshoes/app/mixins/items.js",
+		"/Volumes/hd/sources/gumshoes/app/mixins/info.js",
+		"/Volumes/hd/sources/gumshoes/app/mixins/lockable.js",
+		"/Volumes/hd/sources/gumshoes/app/mixins/openable.js",
+		"/Volumes/hd/sources/gumshoes/app/base/my-element.html",
+		"/Volumes/hd/sources/gumshoes/app/mixins/atk.js",
+		"/Volumes/hd/sources/gumshoes/app/protos/polymer-element.js",
+		"/Volumes/hd/sources/gumshoes/src/index.js",
+		"/Volumes/hd/sources/gumshoes/package.json",
+		"/Volumes/hd/sources/gumshoes/.htmlhintrc",
+		"/Volumes/hd/sources/gumshoes/.gitignore",
+		"/Volumes/hd/sources/gumshoes/README.md",
+		"/Volumes/hd/sources/gumshoes/bower.json",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-client-fields.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/immutable-store-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-lock-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/employment-contracts/employment-contract-edit-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/filters/filter-branch.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/filters/filter-contract-manager.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/filters/filter-site-supervisor.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-parameters-wizard.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/organizations/gui-organizations-picker.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/organizations/organizations-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/site/site-companies.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/search/search-results.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/search/immutable-search-store-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/open/open-shift-order-item-details.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/bower_components/freezer-js/src/freezer.js",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/bower_components/freezer-js/README.md",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/person-assignee-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/employment-assignee-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/assignee-details.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/person-schedule.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/person-availabilities.html",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/Sublimerge 3.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/.git/config",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-items.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/invoice-groups/invoice-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/sites-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/products/product-rates.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/contract-summary.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/contract-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/contract-sites.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/contract-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/company-summary.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/company-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/restrictions/company-restrictions-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-selector.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/supervisors/company-supervisors-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/actions/review-action.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/gui-field/gui-field-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/schedule-actions.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/drafting/draft-list.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/company-sites.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/invoice-groups/bill-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/contracts/contract-create.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/person-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/site/site-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/subcontractor-assignee-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/assignee-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-version-invoker-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/add-shift-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/.gitmodules",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/.gitattributes",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/.gitignore",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/persons-page.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/open/open-shift-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/scripts/utils.js",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/collapse-list-detail.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/store-states-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/page-main-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/gui-filter-builder-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/open/open-shift-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/open/open-shift-card.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/schedule-actions-menu-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/orders/order-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/i18n-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/reporting/reporting-page.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/reporting/reporting-store.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-groups/contract-branches-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/data-storage.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/entities-page-tabs-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/styles/app-theme.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/patrol-stops.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/gulpfile.js",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/package.json",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/bower.json",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/weekly/weekly-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/drafting/draft-assignee-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/app/app.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/person-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/drafting/draft-response.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/assignee-selector.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/modify-shift-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/actions/action-dialog-states-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/assign-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/styles/action-dialog-shared-styles.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/replace-assignment-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/drafting/draft-search-employee.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/drafting/draft-navbar.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/propagation-types.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/actions/event-action-mapper-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/actions/event-action-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/view-shift-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/split-shift-action-dialog.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/schedule-action-dialog-submit-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/paper-fields-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/paper-action-bar.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/schedule/actions/shift-details.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-summary-groups/summary-main-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/info-summary-groups/summary-section-group.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/page-behavior.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/site/site-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/company/company-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/invoices/invoices-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/payrolls/payrolls-main.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/invoices/invoice-actions.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/person/actions/employment-contract-action.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/gui/gui-field/gui-field-phone.html",
+		"/Volumes/hd/sources/lsi/garda/GSKED_1_0/app/elements/shared/behaviors/editable-behavior.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"<project>,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html,*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EventEmitter",
+			"name",
+			"Event",
+			"fixer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 140.0
+	},
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 54.0
+	},
+	"output.git-commit":
+	{
+		"height": 140.0
+	},
+	"output.git-fetch":
+	{
+		"height": 140.0
+	},
+	"output.git-merge":
+	{
+		"height": 140.0
+	},
+	"output.git-push":
+	{
+		"height": 140.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 140.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 79.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "Packages/User/npm_start.sublime-build",
+	"project": "gumshoes.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"orderclient",
+				"app/elements/orders/order-client-fields.html"
+			],
+			[
+				"order-store",
+				"app/elements/orders/order-store.html"
+			],
+			[
+				"scheduaction",
+				"app/elements/schedule/actions/schedule-actions.html"
+			],
+			[
+				"employmentass",
+				"app/elements/schedule/actions/employment-assignee-behavior.html"
+			],
+			[
+				"companysites",
+				"app/elements/company/company-sites.html"
+			],
+			[
+				"billgroup",
+				"app/elements/info-groups/invoice-groups/bill-group.html"
+			],
+			[
+				"contract-crea",
+				"app/elements/company/contracts/contract-create.html"
+			],
+			[
+				"-store",
+				"app/elements/company/contracts/contract-store.html"
+			],
+			[
+				"sitesstore",
+				"app/elements/site/site-store.html"
+			],
+			[
+				"sites",
+				"app/elements/info-groups/sites-group.html"
+			],
+			[
+				"addshift",
+				"app/elements/schedule/actions/add-shift-action-dialog.html"
+			],
+			[
+				"orderclientf",
+				"app/elements/orders/order-client-fields.html"
+			],
+			[
+				"orderitems",
+				"app/elements/orders/order-items.html"
+			],
+			[
+				"orderverinvo",
+				"app/elements/orders/order-version-invoker-behavior.html"
+			],
+			[
+				"openshift",
+				"app/elements/schedule/open/open-shift-order-item-details.html"
+			],
+			[
+				"employass",
+				"app/elements/schedule/actions/employment-assignee-behavior.html"
+			],
+			[
+				"utils",
+				"app/scripts/utils.js"
+			],
+			[
+				"pagemain",
+				"app/elements/shared/behaviors/page-main-behavior.html"
+			],
+			[
+				"entitpa",
+				"app/elements/shared/behaviors/entities-page-tabs-behavior.html"
+			],
+			[
+				"app",
+				"app/elements/app/app.html"
+			],
+			[
+				"action-dia",
+				"app/elements/shared/actions/action-dialog-states-behavior.html"
+			],
+			[
+				"paper-action-",
+				"app/elements/shared/gui/paper-action-bar.html"
+			],
+			[
+				"paperfields",
+				"app/elements/shared/gui/paper-fields-group.html"
+			],
+			[
+				"shift-det",
+				"app/elements/schedule/actions/shift-details.html"
+			],
+			[
+				"eventaction",
+				"app/elements/shared/actions/event-action-group.html"
+			],
+			[
+				"appthe",
+				"app/styles/app-theme.html"
+			],
+			[
+				"action-dialog",
+				"app/elements/shared/styles/action-dialog-shared-styles.html"
+			],
+			[
+				"assign-act",
+				"app/elements/schedule/actions/assign-action-dialog.html"
+			],
+			[
+				"draftsea",
+				"app/elements/schedule/drafting/draft-search-employee.html"
+			],
+			[
+				"-main",
+				"app/elements/schedule/open/open-shift-main.html"
+			],
+			[
+				"invoice",
+				"app/elements/invoices/invoices-main.html"
+			],
+			[
+				"invoice-ac",
+				"app/elements/invoices/invoice-actions.html"
+			],
+			[
+				"pagebeha",
+				"app/elements/shared/behaviors/page-behavior.html"
+			],
+			[
+				"toppanel",
+				"app/elements/app/top-panel.html"
+			],
+			[
+				"routing",
+				"app/elements/routing.html"
+			],
+			[
+				"gui-selec",
+				"app/elements/shared/gui/gui-selector.html"
+			],
+			[
+				"contractcre",
+				"app/elements/company/contracts/contract-create.html"
+			],
+			[
+				"contract-main",
+				"app/elements/company/contracts/contract-main.html"
+			],
+			[
+				"product",
+				"app/elements/company/contracts/products/product-group.html"
+			],
+			[
+				"orderclienf",
+				"app/elements/orders/order-client-fields.html"
+			],
+			[
+				"contrmain",
+				"app/elements/company/contracts/contract-main.html"
+			],
+			[
+				"immutasea",
+				"app/elements/search/immutable-search-store-behavior.html"
+			],
+			[
+				"ordermain",
+				"app/elements/orders/order-main.html"
+			],
+			[
+				"orderverin",
+				"app/elements/orders/order-version-invoker-behavior.html"
+			],
+			[
+				"openshiftorder",
+				"app/elements/schedule/open/open-shift-order-item-details.html"
+			],
+			[
+				"propa",
+				"app/elements/schedule/actions/propagation-types.html"
+			],
+			[
+				"contracstore",
+				"app/elements/company/contracts/contract-store.html"
+			],
+			[
+				"personavai",
+				"app/elements/person/person-availabilities.html"
+			],
+			[
+				"emails-grou",
+				"app/elements/info-groups/emails-group.html"
+			],
+			[
+				"assigndetails",
+				"app/elements/schedule/actions/assignee-details.html"
+			],
+			[
+				"fullcalend",
+				"app/elements/shared/fullcalendar-calendar/fullcalendar-calendar.html"
+			],
+			[
+				"schedule-act",
+				"app/elements/schedule/actions/schedule-actions.html"
+			],
+			[
+				"immstor",
+				"app/elements/shared/behaviors/immutable-store-behavior.html"
+			],
+			[
+				"immutsea",
+				"app/elements/search/immutable-search-store-behavior.html"
+			],
+			[
+				"orderstor",
+				"app/elements/orders/order-store.html"
+			],
+			[
+				"personstor",
+				"app/elements/person/person-store.html"
+			],
+			[
+				"immuta",
+				"app/elements/shared/behaviors/immutable-store-behavior.html"
+			],
+			[
+				"employ",
+				"app/elements/person/employment-contracts/employment-contract-edit-group.html"
+			],
+			[
+				"filter-base",
+				"app/elements/shared/filters/filter-base.html"
+			],
+			[
+				"page",
+				"app/elements/shared/behaviors/page-main-behavior.html"
+			],
+			[
+				"collaps",
+				"app/elements/shared/gui/collapse-list-detail.html"
+			],
+			[
+				"tabs",
+				"app/elements/shared/behaviors/tabs-pages-behavior.html"
+			],
+			[
+				"tabsbehavior",
+				"app/elements/shared/behaviors/tabs-behavior.html"
+			],
+			[
+				"tabsbeh",
+				"app/elements/shared/behaviors/tabs-behavior.html"
+			],
+			[
+				"tab",
+				"app/elements/shared/behaviors/tabs-pages-behavior.html"
+			],
+			[
+				"pages",
+				"app/elements/shared/behaviors/pages-behavior.html"
+			],
+			[
+				"storestates",
+				"app/elements/shared/behaviors/store-states-behavior.html"
+			],
+			[
+				"employecontracts",
+				"app/elements/person/employment-contracts/employment-contracts-group.html"
+			],
+			[
+				"personsche",
+				"app/elements/person/person-schedule.html"
+			],
+			[
+				"person-ava",
+				"app/elements/person/person-availabilities.html"
+			],
+			[
+				"immseasr",
+				"app/elements/search/immutable-search-store-behavior.html"
+			],
+			[
+				"element",
+				"app/elements/elements.html"
+			],
+			[
+				"immu",
+				"app/elements/shared/behaviors/immutable-store-behavior.html"
+			],
+			[
+				"order-stor",
+				"app/elements/orders/order-store.html"
+			],
+			[
+				"fullcal",
+				"app/elements/shared/fullcalendar-calendar/fullcalendar-calendar.html"
+			],
+			[
+				"companyinfor",
+				"app/elements/company/company-information-group.html"
+			],
+			[
+				"searchstor",
+				"app/elements/search/search-store.html"
+			],
+			[
+				"branch",
+				"app/elements/shared/soap/soap-branch.html"
+			],
+			[
+				"session",
+				"app/elements/shared/session-manager.html"
+			],
+			[
+				"globals",
+				"app/scripts/globals.js"
+			],
+			[
+				"gui-select",
+				"app/elements/shared/gui/gui-selector.html"
+			],
+			[
+				"gui-field-beh",
+				"app/elements/shared/behaviors/gui-field/gui-field-behavior.html"
+			],
+			[
+				"ironlist",
+				"bower_components/iron-list/iron-list.html"
+			],
+			[
+				"modifyshift",
+				"app/elements/schedule/actions/modify-shift-action-dialog.html"
+			],
+			[
+				"soapma",
+				"app/elements/shared/soap/soap-mapper.html"
+			],
+			[
+				"datepic",
+				"app/elements/shared/base/paper-date-picker.html"
+			],
+			[
+				"timepick",
+				"app/elements/shared/base/paper-time-picker.html"
+			],
+			[
+				"gui-date-time",
+				"app/elements/shared/gui/gui-field/gui-field-date-time-picker.html"
+			],
+			[
+				"citizensh",
+				"app/elements/info-groups/citizenship-group.html"
+			],
+			[
+				"gui-field-time",
+				"app/elements/shared/gui/gui-field/gui-field-date-time-picker.html"
+			],
+			[
+				"gui-advanc",
+				"app/elements/shared/gui/gui-advanced-filter-builder.html"
+			],
+			[
+				"gui-field-dr",
+				"app/elements/shared/behaviors/gui-field/gui-field-dropdown-behavior.html"
+			],
+			[
+				"gui-field",
+				"app/elements/shared/behaviors/gui-field/gui-field-behavior.html"
+			],
+			[
+				"edita",
+				"app/elements/shared/behaviors/editable-behavior.html"
+			],
+			[
+				"editablgr",
+				"app/elements/shared/behaviors/editable-group-behavior.html"
+			],
+			[
+				"paperinfo",
+				"app/elements/shared/gui/paper-info-group.html"
+			],
+			[
+				"gsked",
+				"Logo gSked.acorn"
+			],
+			[
+				"collapslis",
+				"app/elements/shared/gui/collapse-list-detail.html"
+			],
+			[
+				"polymer",
+				"bower_components/polymer/polymer-mini.html"
+			],
+			[
+				"paper-ripp",
+				"bower_components/paper-ripple/paper-ripple.html"
+			],
+			[
+				"personst",
+				"app/elements/person/person-store.html"
+			],
+			[
+				"storeliste",
+				"app/elements/shared/behaviors/store-listener-behavior.html"
+			],
+			[
+				"storelis",
+				"app/elements/shared/behaviors/store-listener-behavior.html"
+			],
+			[
+				"dialogbe",
+				"app/elements/shared/behaviors/dialog-behavior.html"
+			],
+			[
+				"storelist",
+				"app/elements/shared/behaviors/store-listener-behavior.html"
+			],
+			[
+				"companybe",
+				"app/elements/company/company-behavior.html"
+			],
+			[
+				"qualifica",
+				"app/elements/info-groups/qualification-edit-group.html"
+			],
+			[
+				"dropdown",
+				"app/elements/shared/behaviors/dropdown-values-behavior.html"
+			],
+			[
+				"qualifi",
+				"app/elements/info-groups/qualifications-group.html"
+			],
+			[
+				"groupda",
+				"app/elements/info-groups/group-data-behavior.html"
+			],
+			[
+				"reporting",
+				"app/elements/reporting/reporting-page.html"
+			],
+			[
+				"summa",
+				"app/elements/info-summary-groups/summary-group-behavior.html"
+			],
+			[
+				"ordema",
+				"app/elements/orders/order-main.html"
+			],
+			[
+				"propagation-types",
+				"app/elements/schedule/actions/propagation-types.html"
+			],
+			[
+				"page-main-behavior",
+				"app/elements/shared/behaviors/page-main-behavior.html"
+			],
+			[
+				"person-store",
+				"app/elements/person/person-store.html"
+			],
+			[
+				"person-availabilities",
+				"app/elements/person/person-availabilities.html"
+			],
+			[
+				"employment-contract-edit-group",
+				"app/elements/person/employment-contracts/employment-contract-edit-group.html"
+			],
+			[
+				"assignee-details",
+				"app/elements/schedule/actions/assignee-details.html"
+			],
+			[
+				"order-version-invoker-behavior",
+				"app/elements/orders/order-version-invoker-behavior.html"
+			],
+			[
+				"open-shift-order-item-details",
+				"app/elements/schedule/open/open-shift-order-item-details.html"
+			],
+			[
+				"company-info",
+				"app/elements/company/company-information-fields.html"
+			],
+			[
+				"edit",
+				"app/elements/shared/behaviors/items-edit-behavior.html"
+			],
+			[
+				"itemsedit",
+				"app/elements/shared/behaviors/items-edit-behavior.html"
+			],
+			[
+				"paper-items",
+				"app/elements/shared/gui/paper-items-edit.html"
+			],
+			[
+				"popupbeha",
+				"app/elements/shared/behaviors/popup-dialog-behavior.html"
+			],
+			[
+				"dialo",
+				"app/elements/shared/behaviors/dialog-behavior.html"
+			],
+			[
+				"popup",
+				"app/elements/shared/behaviors/popup-dialog-behavior.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/gsked.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 648.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 485.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

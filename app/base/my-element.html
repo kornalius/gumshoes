@@ -1,0 +1,57 @@
+<link rel="import" href="my-element-shared-styles.html">
+
+<dom-module id="my-element">
+
+  <template>
+
+    <link rel="stylesheet" href="../fonts/fonts.css">
+
+    <style include="my-element-shared-styles">
+      :host {
+        @apply --layout-flex;
+        @apply --layout-vertical;
+        color: var(--white-color);
+      }
+      span {
+        font-weight: bold;
+        color: var(--yellow-color);
+      }
+    </style>
+
+    <div>
+      Hi! My name is <span>{{myName}}</span>
+      <span class="ic-droplet" style="color: pink; font-size: 20px;"></span>
+    </div>
+
+  </template>
+
+  <script>
+    class MyElement extends Polymer.MutableData(Polymer.Element) {
+
+      static get is () { return 'my-element' }
+
+      static get properties () {
+        return {
+          myName: String,
+        }
+      }
+
+      static get observers () {
+        return [
+        ]
+      }
+
+      ready () {
+        super.ready()
+
+        this.async(() => {
+          this.myName += ' (SO COOL!)'
+        }, 1000)
+      }
+
+    }
+
+    customElements.define(MyElement.is, MyElement)
+  </script>
+
+</dom-module>

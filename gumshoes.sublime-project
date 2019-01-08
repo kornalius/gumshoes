@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"gumshoes.sublime-project",
+				"gumshoes.sublime-workspace"
+			],
+			"path": "."
+		}
+	]
+}
